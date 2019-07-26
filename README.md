@@ -5,7 +5,6 @@
 
 
 # Purpose of this project
-#------------------------------------------
 
 The purpose of this project is to learn Python from its basics. Also, 
 helping other people to start programming in Python. 
@@ -14,7 +13,6 @@ so the difficulty of the codes will be slightly increased over time
 (and also, I hope, the fun of the creations).
 
 # How to run the code
-#------------------------------------------
 
 In order to run the different codes, we can use a code editor or,
 if we want simply to use the command prompt, write:
