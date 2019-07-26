@@ -17,6 +17,6 @@ so the difficulty of the codes will be slightly increased over time
 In order to run the different codes, we can use a code editor or,
 if we want simply to use the command prompt, write:
 
-python file.py
+py file.py or python file.py
 
 Substituting "file" by the name of the file we want to run.
