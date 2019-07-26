@@ -1,5 +1,5 @@
 ##### README - Code for learning Python - First steps 
-##### Author: Sandra Benitez Peña
+##### Author: Sandra Benítez-Peña
 ##### Email: sbenitez1@us.es
 
 
