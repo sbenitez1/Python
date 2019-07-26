@@ -1,0 +1,28 @@
+FUNCTION		DESCRIPTION
+-----------     ---------------
+append()		Add an element to the end of the list
+extend()		Add all elements of a list to the another list
+insert()		Insert an item at the defined index
+remove()		Removes an item from the list
+pop()			Removes and returns an element at the given index
+clear()			Removes all items from the list
+index()			Returns the index of the first matched item
+count()			Returns the count of number of items passed as an argument
+sort()			Sort items in a list in ascending order
+reverse()		Reverse the order of items in the list
+copy()			Returns a copy of the list
+round()			Rounds off to the given number of digits and returns the floating point number
+reduce()		Apply a particular function passed in its argument to all of the list elements stores the intermediate result and only returns the final summation value
+sum()			Sums up the numbers in the list
+ord()			Returns an integer representing the Unicode code point of the given Unicode character
+cmp()			This function returns 1, if first list is “greater” than second list
+max()			Return maximum element of given list
+min()			Return minimum element of given list
+all()			Returns true if all element are true or if list is empty
+any()			Return true if any element of the list is true. if list is empty, return false
+len()			Returns length of the list or size of the list
+enumerate()		Returns enumerate object of list
+accumulate()	Apply a particular function passed in its argument to all of the list elements returns a list containing the intermediate results
+filter()		Tests if each element of a list true or not
+map()			Returns a list of the results after applying the given function to each item of a given iterable
+lambda()		This function can have any number of arguments but only one expression, which is evaluated and returned.
