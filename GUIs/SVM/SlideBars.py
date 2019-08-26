@@ -1,3 +1,11 @@
+################################################################
+## {Code for creating slidebars for the values of C and Gamma}
+################################################################
+## Author: {Sandra Benitez Pena}
+## Email: {sbenitez1@us.es}
+## Date:  {2019-08-26}
+################################################################
+
 from tkinter import *
 
 window = Tk()
